@@ -1,0 +1,3 @@
+pandas
+matplotlib  # Caso queira gerar gráficos
+seaborn    # Caso queira usar Seaborn para visualizações mais avançadas
